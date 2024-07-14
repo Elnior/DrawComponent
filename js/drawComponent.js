@@ -1,4 +1,4 @@
-class Drawer {
+export default class Drawer {
   #origin = null;
   weight = 1/2;
   constructor (originX = 0, originY = 0) {
